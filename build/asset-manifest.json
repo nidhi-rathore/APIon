@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Postman-Clone-React/static/css/main.55168031.css",
-    "main.js": "/Postman-Clone-React/static/js/main.ec2796e0.js",
-    "index.html": "/Postman-Clone-React/index.html",
-    "main.55168031.css.map": "/Postman-Clone-React/static/css/main.55168031.css.map",
-    "main.ec2796e0.js.map": "/Postman-Clone-React/static/js/main.ec2796e0.js.map"
+    "main.css": "/static/css/main.55168031.css",
+    "main.js": "/static/js/main.4dc9a761.js",
+    "index.html": "/index.html",
+    "main.55168031.css.map": "/static/css/main.55168031.css.map",
+    "main.4dc9a761.js.map": "/static/js/main.4dc9a761.js.map"
   },
   "entrypoints": [
     "static/css/main.55168031.css",
-    "static/js/main.ec2796e0.js"
+    "static/js/main.4dc9a761.js"
   ]
 }
